@@ -7,7 +7,7 @@
 ---
 
 ### 📝 Description:
-> A python program that uses Selection Statement and Nested Loop in its program.
+> A lab task in Python which uses Loops and Selection Statements.
 
 ---
 
