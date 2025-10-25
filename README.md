@@ -6,6 +6,11 @@
 
 ---
 
+### 📝 Description:
+> A python program that uses Selection Statement and Nested Loop in its program.
+
+---
+
 ### 🎯 Agenda:
 - Act 1: A timer that uses Selection Statement
 - Act 2: Multipliaction table that uses Nested For Loop
